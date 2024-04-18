@@ -1,4 +1,5 @@
 class A {
-  void b() {
+  void b(int i) {
+    
   }
 }
